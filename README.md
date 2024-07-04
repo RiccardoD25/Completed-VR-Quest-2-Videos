@@ -10,7 +10,7 @@ https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/d992
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/474f8077-5f21-4138-9b2c-a0683ca178a7
 # Driving Track Game
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/745fc73a-1e98-4fb4-a72b-5091c7e7cf45
-# Racket Workour Game
+# Racket Workout Game
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/64fe9047-e55c-44a9-b091-4a1eae3cc7b6
 # Landscape Terrain
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/95073232-5dba-4ab1-8e36-14e6b40b1dc6
