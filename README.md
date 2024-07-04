@@ -1,6 +1,6 @@
-# Completed Game Videos
+# Completed Project Videos
 
-Hello World! Here are some game clips I worked on and developed while using Unity. Hope you like them!
+Hello World! Here are some clips of the projects I worked on and developed while using Unity. All of these projects were built into the Meta Oculus 2 headset for a VR/AR experience. Hope you like them!
 <br />
 <img src="https://imgur.com/ZS6Oj7x.png" height="25%" width="25%" alt="Disk Sanitization Steps"/>
 <br />
