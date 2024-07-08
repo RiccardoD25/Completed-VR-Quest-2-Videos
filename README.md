@@ -22,6 +22,10 @@ https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/11ca
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/9351b751-3822-4b7d-89be-6fef5d7cda38
 # Medical Concept
 https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/7d8c38fe-b921-4f62-a055-01ed8d3769d3
+# Hand Detection Tracking System Using Python
+https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/assets/127334418/75de5dad-fb7a-4e4e-9b4e-03d90ab81ee7
+
+
 
 
 
